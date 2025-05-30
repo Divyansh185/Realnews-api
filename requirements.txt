@@ -1,0 +1,5 @@
+# fastapi
+# uvicorn[standard]
+httpx>=0.20.0
+feedparser>=6.0.0
+python-dotenv>=0.20.0
